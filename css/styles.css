@@ -1,0 +1,49 @@
+body {
+
+}
+header {
+	height: 500px;
+	margin-top: 40px;
+	background: url("../head.jpg") no-repeat center;
+}
+span {
+	font-size: 76px;
+	font-weight: bold;
+}
+.gomy-title {
+	padding-top: 80px;
+	margin-left: 20px;
+	padding-bottom: 20px;
+	width: 400px;
+	color: white;
+
+}
+
+.gomyc-img {
+	margin-left: 20px;
+	margin-top: 20px;
+	width: 100px;
+	height: 100px;
+}
+.articles {
+	position:relative;
+	top : 60px;
+}
+
+.article-title {
+	background: skyblue;
+	color: white;
+}
+.niveau {
+	border: 2px solid blue;
+	padding: 10px 10px;
+	margin: 20px 20px;
+}
+
+
+footer {
+	position: relative;
+	top: 50px;
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
